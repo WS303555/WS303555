@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying at University Centre Weston
 - 💞️ I’m currently collaborating on a website as part of a University unit
 - 📫 How to reach me email elliotfaithfull@gmail.com
-- 😄 Pronouns: he/him but I don't care what you use
 
 
 <!---
